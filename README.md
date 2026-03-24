@@ -1,2 +1,1 @@
-# YASH0
-INDIA IS A GREAT COUNTRY
+# yash
